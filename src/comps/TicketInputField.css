@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 30vw;
+  margin: 8px 0;
+}
+
+.row > label {
+  padding: 8px;
+}
